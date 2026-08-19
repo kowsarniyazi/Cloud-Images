@@ -1,0 +1,10 @@
+* text=auto
+
+# Linux shell scripts must use LF line endings
+*.sh text eol=lf
+
+# Linux/cloud configuration files
+*.yaml text eol=lf
+*.yml text eol=lf
+*.cfg text eol=lf
+*.conf text eol=lf

@@ -1,0 +1,27 @@
+# Virtual machine images
+*.qcow2
+*.img
+*.raw
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+
+# Installation media
+*.iso
+
+# Backups
+*.bak
+*.backup
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

@@ -1,0 +1,20 @@
+# Cloud and virtual disk images
+*.qcow2
+*.img
+*.raw
+*.iso
+
+# Image checksums
+*.sha256
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
