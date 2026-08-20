@@ -1,0 +1,14 @@
+# Generated cloud image files
+*.qcow2
+*.img
+*.raw
+*.iso
+
+# Generated checksum files
+*.sha256
+SHA512SUMS
+
+# Temporary and local files
+*.tmp
+*.log
+.env
