@@ -1,0 +1,11 @@
+# Generated disk images and checksums
+*.qcow2
+*.img
+*.raw
+*.sha256
+*.CHECKSUM
+
+# Local build artifacts
+build/
+*.log
+*.tmp
